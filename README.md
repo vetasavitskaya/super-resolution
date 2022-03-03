@@ -2,7 +2,7 @@
 ссылка на датасеты: https://drive.google.com/drive/folders/1eWv43V3lRYTFLCkryDcmLOJSklUDSAhh?usp=sharing
 ## Datasets
 
-|  #   | Dataset      |        #Images         |    #Pixels | Format  | Description                                                  |
+|      | Dataset      |        #Images         |    #Pixels | Format  | Description                                                  |
 | :--: | :----------- | :--------------------: | ---------: | :-----: | :----------------------------------------------------------- |
 |  1   | BSDS300      |     300 (200/100)      |    154,401 |   JPG   | Common images, [[ICCV](https://ieeexplore.ieee.org/abstract/document/937655)], [[Project](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)] |
 |  2   | Set14        |           14           |    230,203 |   PNG   | Common images, only 14 images, [[Curves and Surfaces](https://link.springer.com/chapter/10.1007/978-3-642-27413-8_47)] |
