@@ -2,10 +2,9 @@
 ссылка на датасеты: https://drive.google.com/drive/folders/1eWv43V3lRYTFLCkryDcmLOJSklUDSAhh?usp=sharing
 ## Datasets
 
-|      | Dataset      |        #Images         |    #Pixels | Format  | Description                                                  |
+|      | Dataset      |        Images         |    Pixels  |  Format  | Description                                                  |
 | :--: | :----------- | :--------------------: | ---------: | :-----: | :----------------------------------------------------------- |
 |  1   | BSDS300      |     300 (200/100)      |    154,401 |   JPG   | Common images, [[ICCV](https://ieeexplore.ieee.org/abstract/document/937655)], [[Project](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)] |
-|  2   | Set14        |           14           |    230,203 |   PNG   | Common images, only 14 images, [[Curves and Surfaces](https://link.springer.com/chapter/10.1007/978-3-642-27413-8_47)] |
 |  3   | T91          |           91           |     58,853 |   PNG   | Common Images, [[Project](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)], [[TIP](https://ieeexplore.ieee.org/abstract/document/5466111)] |
 |  4   | BSDS500      |   500 (200/100/200)    |    154,401 |   JPG   | Common images, [[Project](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)], [[TPAMI](https://ieeexplore.ieee.org/abstract/document/5557884)] |
 |  5   | Set5         |           5            |    113,491 |   PNG   | Common images, only 5 images, [[BMVC](http://www.bmva.org/bmvc/2012/BMVC/paper135/index.html)], [[Project](http://people.rennes.inria.fr/Aline.Roumy/results/SR_BMVC12.html)] |
