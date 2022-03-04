@@ -5,7 +5,7 @@ Network](https://github.com/vetasavitskaya/super-resolution/blob/main/articles/P
 
 git: https://github.com/HasnainRaz/Fast-SRGAN
 
-### ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
+### Испльзуя улучшенную генеративно-состязательную сеть: Enhanced Super-Resolution Generative Adversarial Networks
 статья: [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://github.com/vetasavitskaya/super-resolution/blob/main/articles/ESRGAN:%20Enhanced%20Super-Resolution%20Generative%20Adversarial%20Networks.pdf)
 
 git: https://github.com/braindotai/Real-Time-Super-Resolution
