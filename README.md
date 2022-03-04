@@ -11,7 +11,7 @@ Network](https://github.com/vetasavitskaya/super-resolution/blob/main/articles/P
   git: https://github.com/braindotai/Real-Time-Super-Resolution
 
 ### Бикубическая Интерполяция
-git:https://github.com/rootpine/Bicubic-interpolation
+git:https://github.com/rootpine/Bicubic-interpolation, https://medium.com/hd-pro/bicubic-interpolation-techniques-for-digital-imaging-7c6d86dc35dc#:~:text=Bicubic%20interpolation%20is%20a%202D,upscaling%20or%20resampling%20an%20image.
 
 |      |   Dataset    |    Number of images    | Format  | Description                                                  |
 | :--: | :----------- | :--------------------: | :-----: | :----------------------------------------------------------- |
