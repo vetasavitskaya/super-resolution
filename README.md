@@ -10,6 +10,9 @@ Network](https://github.com/vetasavitskaya/super-resolution/blob/main/articles/P
 
   git: https://github.com/braindotai/Real-Time-Super-Resolution
 
+### Бикубическая Интерполяция
+git:https://github.com/rootpine/Bicubic-interpolation
+
 |      |   Dataset    |    Number of images    | Format  | Description                                                  |
 | :--: | :----------- | :--------------------: | :-----: | :----------------------------------------------------------- |
 |      |   Images 4k  |       2057 files       |   jpg   |  https://www.kaggle.com/evgeniumakov/images4k
